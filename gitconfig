@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = quentin.roussel@yahoo.com
+	name = Quentin Roussel
